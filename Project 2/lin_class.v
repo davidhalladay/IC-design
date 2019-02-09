@@ -1,4 +1,4 @@
-//b04502105 __ NTUEE G3 IC design
+//NTUEE G3 IC design
 
 //Combinational logic 1
 module Combi1 (input [5:0] a,
